@@ -1,0 +1,27 @@
+:root{
+      /* navbar heading text color */
+      --navbar-menu-color:#49557e;
+      --navbar-menu-button-hover:#fff4f2;
+
+
+    /* header-image-text-color */
+    --header-h2-color: white;
+    --header-hover-button:antiquewhite;
+
+    /* exploremenu.css */
+    --home-page-heading-color: #262626;
+    --home-page-p-color:#808080;
+    --menu-list-color:#747474;
+
+    /* all tomato color  */
+    --background-color-tomato: tomato;
+    
+    /* fooditem.css */
+    --home-page-desc: #676767;
+    --cart-box-shadow:#e9040415;
+    --add-to-cart-color: rgb(249, 243, 243);
+
+    /* footer-color   */
+    --footer-main-color: #323232;
+    --footer-font-color: #d9d9d9;
+}
