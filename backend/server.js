@@ -12,7 +12,7 @@ const cookieParser = require('cookie-parser');
 const dotenv = require('dotenv/config');
 
 
-const PORT = 8000;
+const PORT = process.env.PORT || 8000;
 const app = express();
 const server = require("http").createServer(app);
 let cors = require("cors");
